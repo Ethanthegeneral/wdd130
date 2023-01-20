@@ -1,25 +1,9 @@
-body {
-  text-align: right;
+.main-para {
+    font-size: 12
+    1.5em;
+    line-height: 1.5em;
 }
-nav {
-  background-color: rgb(0, 255, 85);
-  padding: 10px;
-}
-a {
-  color: white;
-  margin: 40px;
-}
-h1 {
-  color: steelblue;
-}
-img {
-  width: 800px;
-  border: 4px solid steelblue;
-}
-p {
-  padding: 10px;
-}
-footer {
-  background-color: steelblue;
-  color: white;
+#active {
+    background-color: rgb(223, 27, 27);
+    color: rgb(196, 8, 102);
 }
